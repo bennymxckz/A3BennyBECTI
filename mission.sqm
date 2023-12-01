@@ -2814,13 +2814,14 @@ class Mission
 		class Item123
 		{
 			dataType="Marker";
-			position[]={505.74133,0,30224.15};
+			position[]={14889.91,-1.438,15277.73};
 			name="marker_61";
 			text="Benny's BECTI: Altis";
-			type="mil_warning";
-			colorName="ColorWEST";
+			type="mil_dot";
+			colorName="ColorYellow";
+			alpha=0.7499153;
 			id=177;
-			atlOffset=191.07422;
+			atlOffset=41.931236;
 		};
 		class Item124
 		{
