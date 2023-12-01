@@ -173,14 +173,14 @@ _headers = _headers 		+ [[CTI_CONTROLCENTER, localize "STR_Control_Center", loca
 _classes = _classes 		+ [["Land_Cargo_HQ_V3_F", "Land_Cargo_HQ_V3_ruins_F", ["Land_Cargo_HQ_V2_F"]]];
 _prices = _prices 			+ [3000];
 _times = _times 			+ [90];
-_placements = _placements 	+ [[180, 20]];
+_placements = _placements 	+ [[90, 20]];
 _specials = _specials		+ [[["Connected"],["DMG_Alternative"],["DMG_Reduce", 0.5]]];
 
 _headers = _headers 		+ [[CTI_HEAVY, localize "STR_Heavy_Vehicle_Factory", localize "STR_Heavy_Vehicle_Factory_1"]];
 _classes = _classes 		+ [["Land_CarService_F", "Land_Unfinished_Building_01_ruins_F"]];
 _prices = _prices 			+ [3500];
 _times = _times 			+ [120];
-_placements = _placements 	+ [[90, 25]];
+_placements = _placements 	+ [[180, 25]];
 _specials = _specials		+ [[]];
 
 _headers = _headers 		+ [[CTI_AIR, localize "STR_Aircraft_Factory", localize "STR_Aircraft_Factory_1"]];
@@ -194,14 +194,14 @@ _headers = _headers 		+ [[CTI_AMMO, localize "STR_Ammo_Depot", localize "STR_Amm
 _classes = _classes 		+ [["B_Slingload_01_Ammo_F", "Land_RepairDepot_01_tan_ruins_F"]];
 _prices = _prices 			+ [500];
 _times = _times 			+ [40];
-_placements = _placements 	+ [[0, 25]];
+_placements = _placements 	+ [[90, 15]];
 _specials = _specials		+ [[]];
 
 _headers = _headers 		+ [[CTI_REPAIR, localize "STR_Repair_Depot", localize "STR_Repair_Depot_1"]];
 _classes = _classes 		+ [["Land_RepairDepot_01_tan_F", "Land_FuelStation_Build_ruins_F"]];
 _prices = _prices 			+ [600];
 _times = _times 			+ [35];
-_placements = _placements 	+ [[180, 25]];
+_placements = _placements 	+ [[90, 20]];
 _specials = _specials		+ [[]];
 
 _headers = _headers 		+ [[CTI_NAVAL, localize "STR_Naval_Yard", localize "STR_Naval_Yard_1"]];
