@@ -175,7 +175,7 @@ _placements = _placements 	+ [[90, 25]];
 _specials = _specials		+ [[["DMG_Alternative"],["DMG_Reduce", 0.7]]];
 
 _headers = _headers 		+ [[CTI_CONTROLCENTER, localize "STR_Control_Center", localize "STR_Control_Center_1"]];
-_classes = _classes 		+ [["Land_i_House_Small_03_V1_F", "Land_House_Small_03_V1_ruins_F", ["Land_i_House_Small_03_V1_dam_F"]]];
+_classes = _classes 		+ [["Land_Cargo_HQ_V3_F", "Land_Cargo_HQ_V3_ruins_F", ["Land_Cargo_HQ_V2_F"]]];
 _prices = _prices 			+ [3000];
 _times = _times 			+ [90];
 _placements = _placements 	+ [[180, 20]];
